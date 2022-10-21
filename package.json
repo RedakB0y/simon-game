@@ -1,15 +1,15 @@
 {
-  "name": "practice",
+  "name": "simon_game",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "index.html",
   "engines": {
     "node": "16.17.0",
     "npm": "8.18.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "index.html"
     
   },
   "author": "",
